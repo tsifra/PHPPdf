@@ -1,5 +1,5 @@
 {
-    "name": "psliwa/php-pdf",
+    "name": "tsifra/php-pdf",
     "description": "Pdf and graphic files generator library for PHP.",
     "keywords": ["PDF", "PHPPdf"],
     "type": "library",
@@ -30,3 +30,4 @@
         "psr-0": { "PHPPdf": "lib/", "Imagine": "lib/" }
     }
 }
+
