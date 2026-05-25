@@ -13,7 +13,7 @@
     ],
     "require": {
         "nmiles/laminas-pdf": "*",
-        "laminas/laminas-cache":  "^4.3"
+        "laminas/laminas-cache":  "^3.22"
     },
     "require-dev": {
         "laminas/laminas-barcode": "^2.16",
