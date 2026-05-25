@@ -16,8 +16,8 @@
         "laminas/laminas-cache":  "*"
     },
     "require-dev": {
-        "laminas/laminas-barcode": "*",
-        "laminas/laminas-validator": "*",
+        "laminas/laminas-barcode": "^2.16",
+        "laminas/laminas-validator": "^3.16",
         "imagine/Imagine": ">=0.2.0,<0.6.0",
         "phpunit/phpunit": ">=4,<5.4.0"
     },
